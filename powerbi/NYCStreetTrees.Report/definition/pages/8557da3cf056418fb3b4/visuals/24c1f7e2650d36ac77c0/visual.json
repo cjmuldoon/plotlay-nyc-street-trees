@@ -23,11 +23,11 @@
                       "Entity": "Neighbourhoods"
                     }
                   },
-                  "Property": "name"
+                  "Property": "name_short"
                 }
               },
-              "queryRef": "Neighbourhoods.name",
-              "nativeQueryRef": "name",
+              "queryRef": "Neighbourhoods.name_short",
+              "nativeQueryRef": "name_short",
               "displayName": "Neighbourhood",
               "active": true
             }
@@ -161,7 +161,7 @@
                 "Entity": "Neighbourhoods"
               }
             },
-            "Property": "name"
+            "Property": "name_short"
           }
         },
         "type": "TopN",
@@ -189,7 +189,7 @@
                               "Source": "s"
                             }
                           },
-                          "Property": "name"
+                          "Property": "name_short"
                         },
                         "Name": "field"
                       }
@@ -233,7 +233,7 @@
                             "Source": "s"
                           }
                         },
-                        "Property": "name"
+                        "Property": "name_short"
                       }
                     }
                   ],
@@ -249,5 +249,11 @@
         }
       }
     ]
-  }
+  },
+  "annotations": [
+    {
+      "name": "plotlay.categoryLabels",
+      "value": "[\"Annadale-Huguenot-Prince's Bay\", \"Breezy Point-Belle Harbor\", \"Carroll Gardens-Columbia Street\", \"Charleston-Richmond Valley\", \"DUMBO-Vinegar Hill\", \"Douglas Manor-Douglaston\", \"Georgetown-Marine Park\", \"Hudson Yards-Chelsea-Flatiron\", \"Hunters Point-Sunnyside\", \"Mariner's Harbor-Arlington-Port Ivory\", \"Queensbridge-Ravenswood\", \"Schuylerville-Throgs Neck\", \"Sheepshead Bay-Gerritsen Beach\", \"Soundview-Castle Hill-Clason Point\", \"Todt Hill-Emerson Hill\", \"Van Nest-Morris Park\", \"West New Brighton-New Brighton\"]"
+    }
+  ]
 }

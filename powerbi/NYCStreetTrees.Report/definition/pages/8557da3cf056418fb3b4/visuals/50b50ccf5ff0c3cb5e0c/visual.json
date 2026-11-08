@@ -5,8 +5,8 @@
     "x": 50,
     "y": 158,
     "z": 2,
-    "height": 90,
-    "width": 159.171875,
+    "height": 105,
+    "width": 193.0625,
     "tabOrder": 2
   },
   "visual": {
@@ -27,7 +27,7 @@
                     }
                   },
                   {
-                    "value": "-0.5 or under",
+                    "value": "-50% or under",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",
@@ -47,7 +47,7 @@
                     }
                   },
                   {
-                    "value": "0",
+                    "value": "0%",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",
@@ -67,7 +67,7 @@
                     }
                   },
                   {
-                    "value": "1.5 or more",
+                    "value": "+150% or more",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",

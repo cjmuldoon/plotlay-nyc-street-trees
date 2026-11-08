@@ -107,7 +107,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Trees per km², census picked (darker: more trees)'"
+                  "Value": "'Trees per km², census picked'"
                 }
               }
             },
