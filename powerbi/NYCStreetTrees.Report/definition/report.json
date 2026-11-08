@@ -34,6 +34,11 @@
           "name": "neighbourhoods.topojson",
           "path": "neighbourhoods.topojson",
           "type": "ShapeMap"
+        },
+        {
+          "name": "neighbourhoods_900x900.topojson",
+          "path": "neighbourhoods_900x900.topojson",
+          "type": "ShapeMap"
         }
       ]
     }
