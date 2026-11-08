@@ -1,0 +1,51 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "95bfd51c24e8e84bbab4",
+  "position": {
+    "x": 40,
+    "y": 18,
+    "z": 0,
+    "height": 86,
+    "width": 1480,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "STREET TREES, CENSUS BY CENSUS",
+                    "textStyle": {
+                      "fontSize": "24pt",
+                      "color": "#163c6e",
+                      "fontFamily": "Segoe UI Semibold",
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Live street trees per km² in each neighbourhood, for the census picked (2015 when none is).",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

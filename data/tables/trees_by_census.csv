@@ -1,0 +1,565 @@
+nta,census,trees,ntaname,boroname,area_km2,trees_per_km2
+BK09,1995,1413,Brooklyn Heights-Cobble Hill,Brooklyn,0.928,1522.6
+BK09,2005,2076,Brooklyn Heights-Cobble Hill,Brooklyn,0.928,2237.1
+BK09,2015,1689,Brooklyn Heights-Cobble Hill,Brooklyn,0.928,1820.0
+BK17,1995,4739,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,5.886,805.1
+BK17,2005,5406,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,5.886,918.5
+BK17,2015,4891,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,5.886,831.0
+BK19,1995,1052,Brighton Beach,Brooklyn,1.596,659.1
+BK19,2005,1067,Brighton Beach,Brooklyn,1.596,668.5
+BK19,2015,1141,Brighton Beach,Brooklyn,1.596,714.9
+BK21,1995,414,Seagate-Coney Island,Brooklyn,3.609,114.7
+BK21,2005,1408,Seagate-Coney Island,Brooklyn,3.609,390.1
+BK21,2015,1357,Seagate-Coney Island,Brooklyn,3.609,376.0
+BK23,1995,306,West Brighton,Brooklyn,0.812,376.8
+BK23,2005,387,West Brighton,Brooklyn,0.812,476.6
+BK23,2015,459,West Brighton,Brooklyn,0.812,565.3
+BK25,1995,2493,Homecrest,Brooklyn,2.786,894.8
+BK25,2005,3141,Homecrest,Brooklyn,2.786,1127.4
+BK25,2015,4072,Homecrest,Brooklyn,2.786,1461.6
+BK26,1995,1029,Gravesend,Brooklyn,2.911,353.5
+BK26,2005,1169,Gravesend,Brooklyn,2.911,401.6
+BK26,2015,1323,Gravesend,Brooklyn,2.911,454.5
+BK27,1995,1438,Bath Beach,Brooklyn,1.91,752.9
+BK27,2005,1279,Bath Beach,Brooklyn,1.91,669.6
+BK27,2015,1671,Bath Beach,Brooklyn,1.91,874.9
+BK28,1995,3033,Bensonhurst West,Brooklyn,4.335,699.7
+BK28,2005,3760,Bensonhurst West,Brooklyn,4.335,867.4
+BK28,2015,4091,Bensonhurst West,Brooklyn,4.335,943.7
+BK29,1995,1815,Bensonhurst East,Brooklyn,3.327,545.5
+BK29,2005,2696,Bensonhurst East,Brooklyn,3.327,810.3
+BK29,2015,3244,Bensonhurst East,Brooklyn,3.327,975.1
+BK30,1995,2823,Dyker Heights,Brooklyn,2.779,1015.8
+BK30,2005,3578,Dyker Heights,Brooklyn,2.779,1287.5
+BK30,2015,3086,Dyker Heights,Brooklyn,2.779,1110.5
+BK31,1995,5399,Bay Ridge,Brooklyn,6.245,864.5
+BK31,2005,6491,Bay Ridge,Brooklyn,6.245,1039.4
+BK31,2015,6606,Bay Ridge,Brooklyn,6.245,1057.8
+BK32,1995,1282,Sunset Park West,Brooklyn,4.641,276.2
+BK32,2005,1635,Sunset Park West,Brooklyn,4.641,352.3
+BK32,2015,3114,Sunset Park West,Brooklyn,4.641,671.0
+BK33,1995,2228,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,4.144,537.6
+BK33,2005,3491,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,4.144,842.4
+BK33,2015,4136,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,4.144,998.1
+BK34,1995,1403,Sunset Park East,Brooklyn,2.519,557.0
+BK34,2005,2115,Sunset Park East,Brooklyn,2.519,839.6
+BK34,2015,3020,Sunset Park East,Brooklyn,2.519,1198.9
+BK35,1995,1786,Stuyvesant Heights,Brooklyn,2.918,612.1
+BK35,2005,2681,Stuyvesant Heights,Brooklyn,2.918,918.8
+BK35,2015,3773,Stuyvesant Heights,Brooklyn,2.918,1293.0
+BK37,1995,4846,Park Slope-Gowanus,Brooklyn,3.949,1227.1
+BK37,2005,5801,Park Slope-Gowanus,Brooklyn,3.949,1469.0
+BK37,2015,5895,Park Slope-Gowanus,Brooklyn,3.949,1492.8
+BK38,1995,1963,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,2.645,742.2
+BK38,2005,3442,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,2.645,1301.3
+BK38,2015,2877,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,2.645,1087.7
+BK40,1995,1196,Windsor Terrace,Brooklyn,1.305,916.5
+BK40,2005,1835,Windsor Terrace,Brooklyn,1.305,1406.1
+BK40,2015,2030,Windsor Terrace,Brooklyn,1.305,1555.6
+BK41,1995,1154,Kensington-Ocean Parkway,Brooklyn,1.477,781.3
+BK41,2005,2017,Kensington-Ocean Parkway,Brooklyn,1.477,1365.6
+BK41,2015,2153,Kensington-Ocean Parkway,Brooklyn,1.477,1457.7
+BK42,1995,5058,Flatbush,Brooklyn,4.204,1203.1
+BK42,2005,5977,Flatbush,Brooklyn,4.204,1421.7
+BK42,2015,5713,Flatbush,Brooklyn,4.204,1358.9
+BK43,1995,4397,Midwood,Brooklyn,3.326,1322.0
+BK43,2005,4805,Midwood,Brooklyn,3.326,1444.7
+BK43,2015,4664,Midwood,Brooklyn,3.326,1402.3
+BK44,1995,2922,Madison,Brooklyn,2.544,1148.6
+BK44,2005,3198,Madison,Brooklyn,2.544,1257.1
+BK44,2015,3362,Madison,Brooklyn,2.544,1321.5
+BK45,1995,4940,Georgetown-Marine Park-Bergen Beach-Mill Basin,Brooklyn,6.453,765.5
+BK45,2005,6791,Georgetown-Marine Park-Bergen Beach-Mill Basin,Brooklyn,6.453,1052.4
+BK45,2015,6965,Georgetown-Marine Park-Bergen Beach-Mill Basin,Brooklyn,6.453,1079.3
+BK46,1995,1535,Ocean Parkway South,Brooklyn,1.652,929.2
+BK46,2005,2301,Ocean Parkway South,Brooklyn,1.652,1392.9
+BK46,2015,2474,Ocean Parkway South,Brooklyn,1.652,1497.6
+BK50,1995,5374,Canarsie,Brooklyn,7.626,704.7
+BK50,2005,6476,Canarsie,Brooklyn,7.626,849.2
+BK50,2015,5634,Canarsie,Brooklyn,7.626,738.8
+BK58,1995,4110,Flatlands,Brooklyn,5.049,814.0
+BK58,2005,5181,Flatlands,Brooklyn,5.049,1026.1
+BK58,2015,5308,Flatlands,Brooklyn,5.049,1051.3
+BK60,1995,1752,Prospect Lefferts Gardens-Wingate,Brooklyn,2.939,596.1
+BK60,2005,2476,Prospect Lefferts Gardens-Wingate,Brooklyn,2.939,842.5
+BK60,2015,2925,Prospect Lefferts Gardens-Wingate,Brooklyn,2.939,995.2
+BK61,1995,3386,Crown Heights North,Brooklyn,4.796,706.0
+BK61,2005,4467,Crown Heights North,Brooklyn,4.796,931.4
+BK61,2015,6181,Crown Heights North,Brooklyn,4.796,1288.8
+BK63,1995,1299,Crown Heights South,Brooklyn,1.485,874.7
+BK63,2005,2129,Crown Heights South,Brooklyn,1.485,1433.7
+BK63,2015,1917,Crown Heights South,Brooklyn,1.485,1290.9
+BK64,1995,543,Prospect Heights,Brooklyn,0.951,571.0
+BK64,2005,1320,Prospect Heights,Brooklyn,0.951,1388.0
+BK64,2015,1474,Prospect Heights,Brooklyn,0.951,1549.9
+BK68,1995,1342,Fort Greene,Brooklyn,1.531,876.6
+BK68,2005,1384,Fort Greene,Brooklyn,1.531,904.0
+BK68,2015,1967,Fort Greene,Brooklyn,1.531,1284.8
+BK69,1995,1774,Clinton Hill,Brooklyn,1.907,930.3
+BK69,2005,1783,Clinton Hill,Brooklyn,1.907,935.0
+BK69,2015,2835,Clinton Hill,Brooklyn,1.907,1486.6
+BK72,1995,952,Williamsburg,Brooklyn,1.077,883.9
+BK72,2005,1522,Williamsburg,Brooklyn,1.077,1413.2
+BK72,2015,1595,Williamsburg,Brooklyn,1.077,1481.0
+BK73,1995,1404,North Side-South Side,Brooklyn,2.681,523.7
+BK73,2005,2208,North Side-South Side,Brooklyn,2.681,823.6
+BK73,2015,3271,North Side-South Side,Brooklyn,2.681,1220.1
+BK75,1995,1510,Bedford,Brooklyn,3.031,498.2
+BK75,2005,2149,Bedford,Brooklyn,3.031,709.0
+BK75,2015,3588,Bedford,Brooklyn,3.031,1183.8
+BK76,1995,1066,Greenpoint,Brooklyn,3.281,324.9
+BK76,2005,2627,Greenpoint,Brooklyn,3.281,800.7
+BK76,2015,3292,Greenpoint,Brooklyn,3.281,1003.4
+BK77,1995,850,Bushwick North,Brooklyn,2.316,367.0
+BK77,2005,1444,Bushwick North,Brooklyn,2.316,623.5
+BK77,2015,3245,Bushwick North,Brooklyn,2.316,1401.1
+BK78,1995,1582,Bushwick South,Brooklyn,3.732,423.9
+BK78,2005,3027,Bushwick South,Brooklyn,3.732,811.1
+BK78,2015,4334,Bushwick South,Brooklyn,3.732,1161.3
+BK79,1995,750,Ocean Hill,Brooklyn,1.866,401.9
+BK79,2005,906,Ocean Hill,Brooklyn,1.866,485.5
+BK79,2015,2262,Ocean Hill,Brooklyn,1.866,1212.2
+BK81,1995,1837,Brownsville,Brooklyn,3.04,604.3
+BK81,2005,2111,Brownsville,Brooklyn,3.04,694.4
+BK81,2015,2973,Brownsville,Brooklyn,3.04,978.0
+BK82,1995,2892,East New York,Brooklyn,10.873,266.0
+BK82,2005,3647,East New York,Brooklyn,10.873,335.4
+BK82,2015,9162,East New York,Brooklyn,10.873,842.6
+BK83,1995,1596,Cypress Hills-City Line,Brooklyn,2.565,622.2
+BK83,2005,1679,Cypress Hills-City Line,Brooklyn,2.565,654.6
+BK83,2015,3384,Cypress Hills-City Line,Brooklyn,2.565,1319.3
+BK85,1995,882,East New York (Pennsylvania Ave),Brooklyn,1.802,489.5
+BK85,2005,1391,East New York (Pennsylvania Ave),Brooklyn,1.802,771.9
+BK85,2015,2856,East New York (Pennsylvania Ave),Brooklyn,1.802,1584.9
+BK88,1995,4433,Borough Park,Brooklyn,5.017,883.6
+BK88,2005,5127,Borough Park,Brooklyn,5.017,1021.9
+BK88,2015,5709,Borough Park,Brooklyn,5.017,1137.9
+BK90,1995,781,East Williamsburg,Brooklyn,3.636,214.8
+BK90,2005,1625,East Williamsburg,Brooklyn,3.636,446.9
+BK90,2015,2178,East Williamsburg,Brooklyn,3.636,599.0
+BK91,1995,2586,East Flatbush-Farragut,Brooklyn,3.192,810.2
+BK91,2005,2822,East Flatbush-Farragut,Brooklyn,3.192,884.1
+BK91,2015,2772,East Flatbush-Farragut,Brooklyn,3.192,868.4
+BK93,1995,56,Starrett City,Brooklyn,1.078,51.9
+BK93,2005,213,Starrett City,Brooklyn,1.078,197.6
+BK93,2015,682,Starrett City,Brooklyn,1.078,632.7
+BK95,1995,679,Erasmus,Brooklyn,1.35,503.0
+BK95,2005,853,Erasmus,Brooklyn,1.35,631.9
+BK95,2015,1329,Erasmus,Brooklyn,1.35,984.4
+BK96,1995,2440,Rugby-Remsen Village,Brooklyn,3.038,803.2
+BK96,2005,2927,Rugby-Remsen Village,Brooklyn,3.038,963.5
+BK96,2015,3178,Rugby-Remsen Village,Brooklyn,3.038,1046.1
+BX01,1995,355,Claremont-Bathgate,Bronx,1.529,232.2
+BX01,2005,704,Claremont-Bathgate,Bronx,1.529,460.4
+BX01,2015,1538,Claremont-Bathgate,Bronx,1.529,1005.9
+BX03,1995,1903,Eastchester-Edenwald-Baychester,Bronx,3.741,508.7
+BX03,2005,2177,Eastchester-Edenwald-Baychester,Bronx,3.741,581.9
+BX03,2015,2427,Eastchester-Edenwald-Baychester,Bronx,3.741,648.8
+BX05,1995,1159,Bedford Park-Fordham North,Bronx,1.393,832.0
+BX05,2005,1284,Bedford Park-Fordham North,Bronx,1.393,921.8
+BX05,2015,1721,Bedford Park-Fordham North,Bronx,1.393,1235.5
+BX06,1995,607,Belmont,Bronx,1.26,481.7
+BX06,2005,674,Belmont,Bronx,1.26,534.9
+BX06,2015,1413,Belmont,Bronx,1.26,1121.4
+BX07,1995,798,Bronxdale,Bronx,1.411,565.6
+BX07,2005,1414,Bronxdale,Bronx,1.411,1002.1
+BX07,2015,1378,Bronxdale,Bronx,1.411,976.6
+BX08,1995,1016,West Farms-Bronx River,Bronx,1.401,725.2
+BX08,2005,868,West Farms-Bronx River,Bronx,1.401,619.6
+BX08,2015,1551,West Farms-Bronx River,Bronx,1.401,1107.1
+BX09,1995,1670,Soundview-Castle Hill-Clason Point-Harding Park,Bronx,4.83,345.8
+BX09,2005,2282,Soundview-Castle Hill-Clason Point-Harding Park,Bronx,4.83,472.5
+BX09,2015,3589,Soundview-Castle Hill-Clason Point-Harding Park,Bronx,4.83,743.1
+BX10,1995,1994,Pelham Bay-Country Club-City Island,Bronx,3.736,533.7
+BX10,2005,3123,Pelham Bay-Country Club-City Island,Bronx,3.736,835.9
+BX10,2015,3047,Pelham Bay-Country Club-City Island,Bronx,3.736,815.6
+BX13,1995,1123,Co-op City,Bronx,3.696,303.8
+BX13,2005,2013,Co-op City,Bronx,3.696,544.6
+BX13,2015,2030,Co-op City,Bronx,3.696,549.2
+BX14,1995,806,East Concourse-Concourse Village,Bronx,1.693,476.1
+BX14,2005,932,East Concourse-Concourse Village,Bronx,1.693,550.5
+BX14,2015,2233,East Concourse-Concourse Village,Bronx,1.693,1319.0
+BX17,1995,487,East Tremont,Bronx,1.789,272.2
+BX17,2005,1504,East Tremont,Bronx,1.789,840.7
+BX17,2015,2252,East Tremont,Bronx,1.789,1258.8
+BX22,1995,2728,North Riverdale-Fieldston-Riverdale,Bronx,4.556,598.8
+BX22,2005,3213,North Riverdale-Fieldston-Riverdale,Bronx,4.556,705.2
+BX22,2015,1870,North Riverdale-Fieldston-Riverdale,Bronx,4.556,410.4
+BX26,1995,428,Highbridge,Bronx,1.529,279.9
+BX26,2005,665,Highbridge,Bronx,1.529,434.9
+BX26,2015,1671,Highbridge,Bronx,1.529,1092.9
+BX27,1995,325,Hunts Point,Bronx,4.616,70.4
+BX27,2005,1343,Hunts Point,Bronx,4.616,290.9
+BX27,2015,3292,Hunts Point,Bronx,4.616,713.2
+BX28,1995,1366,Van Cortlandt Village,Bronx,2.385,572.7
+BX28,2005,1822,Van Cortlandt Village,Bronx,2.385,763.9
+BX28,2015,2235,Van Cortlandt Village,Bronx,2.385,937.1
+BX29,1995,1141,Spuyten Duyvil-Kingsbridge,Bronx,2.157,529.0
+BX29,2005,1824,Spuyten Duyvil-Kingsbridge,Bronx,2.157,845.6
+BX29,2015,1813,Spuyten Duyvil-Kingsbridge,Bronx,2.157,840.5
+BX30,1995,511,Kingsbridge Heights,Bronx,1.223,417.8
+BX30,2005,649,Kingsbridge Heights,Bronx,1.223,530.7
+BX30,2015,1111,Kingsbridge Heights,Bronx,1.223,908.4
+BX31,1995,3160,Allerton-Pelham Gardens,Bronx,2.944,1073.4
+BX31,2005,3957,Allerton-Pelham Gardens,Bronx,2.944,1344.1
+BX31,2015,3609,Allerton-Pelham Gardens,Bronx,2.944,1225.9
+BX33,1995,130,Longwood,Bronx,0.998,130.3
+BX33,2005,922,Longwood,Bronx,0.998,923.8
+BX33,2015,1477,Longwood,Bronx,0.998,1480.0
+BX34,1995,484,Melrose South-Mott Haven North,Bronx,1.605,301.6
+BX34,2005,744,Melrose South-Mott Haven North,Bronx,1.605,463.6
+BX34,2015,1997,Melrose South-Mott Haven North,Bronx,1.605,1244.2
+BX35,1995,597,Morrisania-Melrose,Bronx,1.569,380.5
+BX35,2005,944,Morrisania-Melrose,Bronx,1.569,601.7
+BX35,2015,2135,Morrisania-Melrose,Bronx,1.569,1360.7
+BX36,1995,811,University Heights-Morris Heights,Bronx,1.975,410.6
+BX36,2005,1195,University Heights-Morris Heights,Bronx,1.975,605.1
+BX36,2015,1988,University Heights-Morris Heights,Bronx,1.975,1006.6
+BX37,1995,1867,Van Nest-Morris Park-Westchester Square,Bronx,3.374,553.3
+BX37,2005,2147,Van Nest-Morris Park-Westchester Square,Bronx,3.374,636.3
+BX37,2015,3001,Van Nest-Morris Park-Westchester Square,Bronx,3.374,889.4
+BX39,1995,655,Mott Haven-Port Morris,Bronx,3.893,168.3
+BX39,2005,909,Mott Haven-Port Morris,Bronx,3.893,233.5
+BX39,2015,2377,Mott Haven-Port Morris,Bronx,3.893,610.6
+BX40,1995,272,Fordham South,Bronx,0.586,464.2
+BX40,2005,448,Fordham South,Bronx,0.586,764.5
+BX40,2015,995,Fordham South,Bronx,0.586,1698.0
+BX41,1995,702,Mount Hope,Bronx,1.367,513.5
+BX41,2005,1043,Mount Hope,Bronx,1.367,763.0
+BX41,2015,1881,Mount Hope,Bronx,1.367,1376.0
+BX43,1995,774,Norwood,Bronx,1.461,529.8
+BX43,2005,1390,Norwood,Bronx,1.461,951.4
+BX43,2015,1709,Norwood,Bronx,1.461,1169.7
+BX44,1995,1287,Williamsbridge-Olinville,Bronx,3.37,381.9
+BX44,2005,2508,Williamsbridge-Olinville,Bronx,3.37,744.2
+BX44,2015,3086,Williamsbridge-Olinville,Bronx,3.37,915.7
+BX46,1995,198,Parkchester,Bronx,0.853,232.1
+BX46,2005,460,Parkchester,Bronx,0.853,539.3
+BX46,2015,773,Parkchester,Bronx,0.853,906.2
+BX49,1995,1627,Pelham Parkway,Bronx,2.139,760.6
+BX49,2005,1893,Pelham Parkway,Bronx,2.139,885.0
+BX49,2015,2177,Pelham Parkway,Bronx,2.139,1017.8
+BX52,1995,3580,Schuylerville-Throgs Neck-Edgewater Park,Bronx,8.216,435.7
+BX52,2005,3932,Schuylerville-Throgs Neck-Edgewater Park,Bronx,8.216,478.6
+BX52,2015,4851,Schuylerville-Throgs Neck-Edgewater Park,Bronx,8.216,590.4
+BX55,1995,1158,Soundview-Bruckner,Bronx,1.51,766.9
+BX55,2005,1181,Soundview-Bruckner,Bronx,1.51,782.1
+BX55,2015,1849,Soundview-Bruckner,Bronx,1.51,1224.5
+BX59,1995,985,Westchester-Unionport,Bronx,2.225,442.7
+BX59,2005,1272,Westchester-Unionport,Bronx,2.225,571.7
+BX59,2015,2709,Westchester-Unionport,Bronx,2.225,1217.5
+BX62,1995,3899,Woodlawn-Wakefield,Bronx,3.692,1056.1
+BX62,2005,3947,Woodlawn-Wakefield,Bronx,3.692,1069.1
+BX62,2015,3803,Woodlawn-Wakefield,Bronx,3.692,1030.1
+BX63,1995,720,West Concourse,Bronx,1.799,400.2
+BX63,2005,1024,West Concourse,Bronx,1.799,569.2
+BX63,2015,1974,West Concourse,Bronx,1.799,1097.3
+BX75,1995,507,Crotona Park East,Bronx,1.515,334.7
+BX75,2005,663,Crotona Park East,Bronx,1.515,437.6
+BX75,2015,1332,Crotona Park East,Bronx,1.515,879.2
+MN01,1995,836,Marble Hill-Inwood,Manhattan,1.651,506.4
+MN01,2005,1023,Marble Hill-Inwood,Manhattan,1.651,619.6
+MN01,2015,1639,Marble Hill-Inwood,Manhattan,1.651,992.7
+MN03,1995,1540,Central Harlem North-Polo Grounds,Manhattan,2.36,652.5
+MN03,2005,2247,Central Harlem North-Polo Grounds,Manhattan,2.36,952.1
+MN03,2015,3355,Central Harlem North-Polo Grounds,Manhattan,2.36,1421.6
+MN04,1995,1086,Hamilton Heights,Manhattan,1.485,731.3
+MN04,2005,1462,Hamilton Heights,Manhattan,1.485,984.5
+MN04,2015,2299,Hamilton Heights,Manhattan,1.485,1548.1
+MN06,1995,450,Manhattanville,Manhattan,0.997,451.4
+MN06,2005,582,Manhattanville,Manhattan,0.997,583.8
+MN06,2015,862,Manhattanville,Manhattan,0.997,864.6
+MN09,1995,1455,Morningside Heights,Manhattan,1.872,777.2
+MN09,2005,1819,Morningside Heights,Manhattan,1.872,971.7
+MN09,2015,2492,Morningside Heights,Manhattan,1.872,1331.2
+MN11,1995,858,Central Harlem South,Manhattan,1.34,640.3
+MN11,2005,1781,Central Harlem South,Manhattan,1.34,1329.1
+MN11,2015,2485,Central Harlem South,Manhattan,1.34,1854.5
+MN12,1995,4273,Upper West Side,Manhattan,3.194,1337.8
+MN12,2005,5196,Upper West Side,Manhattan,3.194,1626.8
+MN12,2015,5616,Upper West Side,Manhattan,3.194,1758.3
+MN13,1995,2135,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,3.443,620.1
+MN13,2005,2190,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,3.443,636.1
+MN13,2015,2841,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,3.443,825.2
+MN14,1995,1456,Lincoln Square,Manhattan,1.468,991.8
+MN14,2005,1886,Lincoln Square,Manhattan,1.468,1284.7
+MN14,2015,2022,Lincoln Square,Manhattan,1.468,1377.4
+MN15,1995,1263,Clinton,Manhattan,1.707,739.9
+MN15,2005,1587,Clinton,Manhattan,1.707,929.7
+MN15,2015,1887,Clinton,Manhattan,1.707,1105.4
+MN17,1995,1312,Midtown-Midtown South,Manhattan,2.805,467.7
+MN17,2005,1173,Midtown-Midtown South,Manhattan,2.805,418.2
+MN17,2015,1136,Midtown-Midtown South,Manhattan,2.805,405.0
+MN19,1995,2625,Turtle Bay-East Midtown,Manhattan,1.616,1624.4
+MN19,2005,2077,Turtle Bay-East Midtown,Manhattan,1.616,1285.3
+MN19,2015,2162,Turtle Bay-East Midtown,Manhattan,1.616,1337.9
+MN20,1995,1511,Murray Hill-Kips Bay,Manhattan,1.343,1125.1
+MN20,2005,1633,Murray Hill-Kips Bay,Manhattan,1.343,1215.9
+MN20,2015,1658,Murray Hill-Kips Bay,Manhattan,1.343,1234.5
+MN21,1995,1175,Gramercy,Manhattan,0.699,1681.0
+MN21,2005,1072,Gramercy,Manhattan,0.699,1533.6
+MN21,2015,1087,Gramercy,Manhattan,0.699,1555.1
+MN22,1995,1352,East Village,Manhattan,1.012,1336.0
+MN22,2005,1293,East Village,Manhattan,1.012,1277.7
+MN22,2015,1512,East Village,Manhattan,1.012,1494.1
+MN23,1995,3219,West Village,Manhattan,2.323,1385.7
+MN23,2005,3159,West Village,Manhattan,2.323,1359.9
+MN23,2015,3675,West Village,Manhattan,2.323,1582.0
+MN24,1995,1122,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,2.326,482.4
+MN24,2005,1612,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,2.326,693.0
+MN24,2015,2128,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,2.326,914.9
+MN25,1995,487,Battery Park City-Lower Manhattan,Manhattan,1.765,275.9
+MN25,2005,964,Battery Park City-Lower Manhattan,Manhattan,1.765,546.2
+MN25,2015,1266,Battery Park City-Lower Manhattan,Manhattan,1.765,717.3
+MN27,1995,603,Chinatown,Manhattan,1.347,447.7
+MN27,2005,681,Chinatown,Manhattan,1.347,505.6
+MN27,2015,1402,Chinatown,Manhattan,1.347,1040.8
+MN28,1995,930,Lower East Side,Manhattan,2.166,429.4
+MN28,2005,1050,Lower East Side,Manhattan,2.166,484.8
+MN28,2015,1845,Lower East Side,Manhattan,2.166,851.8
+MN31,1995,2095,Lenox Hill-Roosevelt Island,Manhattan,1.998,1048.5
+MN31,2005,2227,Lenox Hill-Roosevelt Island,Manhattan,1.998,1114.6
+MN31,2015,2215,Lenox Hill-Roosevelt Island,Manhattan,1.998,1108.6
+MN32,1995,2267,Yorkville,Manhattan,1.268,1787.9
+MN32,2005,2370,Yorkville,Manhattan,1.268,1869.1
+MN32,2015,2133,Yorkville,Manhattan,1.268,1682.2
+MN33,1995,845,East Harlem South,Manhattan,1.547,546.2
+MN33,2005,1168,East Harlem South,Manhattan,1.547,755.0
+MN33,2015,1750,East Harlem South,Manhattan,1.547,1131.2
+MN34,1995,984,East Harlem North,Manhattan,2.277,432.1
+MN34,2005,1639,East Harlem North,Manhattan,2.277,719.8
+MN34,2015,2403,East Harlem North,Manhattan,2.277,1055.3
+MN35,1995,1062,Washington Heights North,Manhattan,2.106,504.3
+MN35,2005,1243,Washington Heights North,Manhattan,2.106,590.2
+MN35,2015,2410,Washington Heights North,Manhattan,2.106,1144.3
+MN36,1995,1283,Washington Heights South,Manhattan,2.149,597.0
+MN36,2005,1672,Washington Heights South,Manhattan,2.149,778.0
+MN36,2015,2695,Washington Heights South,Manhattan,2.149,1254.1
+MN40,1995,3790,Upper East Side-Carnegie Hill,Manhattan,1.864,2033.3
+MN40,2005,3885,Upper East Side-Carnegie Hill,Manhattan,1.864,2084.2
+MN40,2015,4080,Upper East Side-Carnegie Hill,Manhattan,1.864,2188.8
+MN50,1995,275,Stuyvesant Town-Cooper Village,Manhattan,0.518,530.9
+MN50,2005,327,Stuyvesant Town-Cooper Village,Manhattan,0.518,631.3
+MN50,2015,428,Stuyvesant Town-Cooper Village,Manhattan,0.518,826.3
+QN01,1995,3148,South Jamaica,Queens,3.714,847.6
+QN01,2005,3266,South Jamaica,Queens,3.714,879.4
+QN01,2015,3890,South Jamaica,Queens,3.714,1047.4
+QN02,1995,2443,Springfield Gardens North,Queens,2.641,925.0
+QN02,2005,2715,Springfield Gardens North,Queens,2.641,1028.0
+QN02,2015,2809,Springfield Gardens North,Queens,2.641,1063.6
+QN03,1995,2229,Springfield Gardens South-Brookville,Queens,4.022,554.2
+QN03,2005,2779,Springfield Gardens South-Brookville,Queens,4.022,690.9
+QN03,2015,3567,Springfield Gardens South-Brookville,Queens,4.022,886.9
+QN05,1995,4588,Rosedale,Queens,5.72,802.1
+QN05,2005,5081,Rosedale,Queens,5.72,888.3
+QN05,2015,5171,Rosedale,Queens,5.72,904.0
+QN06,1995,2064,Jamaica Estates-Holliswood,Queens,3.975,519.2
+QN06,2005,4039,Jamaica Estates-Holliswood,Queens,3.975,1016.1
+QN06,2015,3965,Jamaica Estates-Holliswood,Queens,3.975,997.5
+QN07,1995,2518,Hollis,Queens,2.126,1184.4
+QN07,2005,1800,Hollis,Queens,2.126,846.7
+QN07,2015,2435,Hollis,Queens,2.126,1145.3
+QN08,1995,6018,St. Albans,Queens,7.192,836.8
+QN08,2005,5107,St. Albans,Queens,7.192,710.1
+QN08,2015,6767,St. Albans,Queens,7.192,940.9
+QN10,1995,1442,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,9.256,155.8
+QN10,2005,4054,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,9.256,438.0
+QN10,2015,3541,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,9.256,382.6
+QN12,1995,352,Hammels-Arverne-Edgemere,Queens,5.751,61.2
+QN12,2005,1311,Hammels-Arverne-Edgemere,Queens,5.751,228.0
+QN12,2015,2932,Hammels-Arverne-Edgemere,Queens,5.751,509.8
+QN15,1995,2090,Far Rockaway-Bayswater,Queens,5.036,415.0
+QN15,2005,3155,Far Rockaway-Bayswater,Queens,5.036,626.5
+QN15,2015,4711,Far Rockaway-Bayswater,Queens,5.036,935.5
+QN17,1995,6345,Forest Hills,Queens,5.372,1181.1
+QN17,2005,8262,Forest Hills,Queens,5.372,1538.0
+QN17,2015,7328,Forest Hills,Queens,5.372,1364.1
+QN18,1995,1714,Rego Park,Queens,1.853,925.0
+QN18,2005,1986,Rego Park,Queens,1.853,1071.8
+QN18,2015,2283,Rego Park,Queens,1.853,1232.1
+QN19,1995,4615,Glendale,Queens,2.789,1654.7
+QN19,2005,4736,Glendale,Queens,2.789,1698.1
+QN19,2015,4099,Glendale,Queens,2.789,1469.7
+QN20,1995,5273,Ridgewood,Queens,4.691,1124.1
+QN20,2005,5506,Ridgewood,Queens,4.691,1173.7
+QN20,2015,6095,Ridgewood,Queens,4.691,1299.3
+QN21,1995,4854,Middle Village,Queens,5.359,905.8
+QN21,2005,5576,Middle Village,Queens,5.359,1040.5
+QN21,2015,5044,Middle Village,Queens,5.359,941.2
+QN22,1995,2230,Flushing,Queens,3.518,633.9
+QN22,2005,2684,Flushing,Queens,3.518,762.9
+QN22,2015,2912,Flushing,Queens,3.518,827.7
+QN23,1995,2703,College Point,Queens,4.697,575.5
+QN23,2005,2508,College Point,Queens,4.697,534.0
+QN23,2015,3294,College Point,Queens,4.697,701.3
+QN25,1995,1282,Corona,Queens,1.865,687.4
+QN25,2005,1961,Corona,Queens,1.865,1051.5
+QN25,2015,1826,Corona,Queens,1.865,979.1
+QN26,1995,926,North Corona,Queens,1.673,553.5
+QN26,2005,1254,North Corona,Queens,1.673,749.6
+QN26,2015,2141,North Corona,Queens,1.673,1279.7
+QN27,1995,1638,East Elmhurst,Queens,1.833,893.6
+QN27,2005,1592,East Elmhurst,Queens,1.833,868.5
+QN27,2015,2055,East Elmhurst,Queens,1.833,1121.1
+QN28,1995,6688,Jackson Heights,Queens,4.446,1504.3
+QN28,2005,7092,Jackson Heights,Queens,4.446,1595.1
+QN28,2015,6528,Jackson Heights,Queens,4.446,1468.3
+QN29,1995,3048,Elmhurst,Queens,3.036,1004.0
+QN29,2005,3679,Elmhurst,Queens,3.036,1211.8
+QN29,2015,3169,Elmhurst,Queens,3.036,1043.8
+QN30,1995,3263,Maspeth,Queens,3.31,985.8
+QN30,2005,2771,Maspeth,Queens,3.31,837.2
+QN30,2015,3107,Maspeth,Queens,3.31,938.7
+QN31,1995,3682,Hunters Point-Sunnyside-West Maspeth,Queens,9.516,386.9
+QN31,2005,4783,Hunters Point-Sunnyside-West Maspeth,Queens,9.516,502.6
+QN31,2015,5018,Hunters Point-Sunnyside-West Maspeth,Queens,9.516,527.3
+QN33,1995,3065,Cambria Heights,Queens,3.073,997.4
+QN33,2005,3094,Cambria Heights,Queens,3.073,1006.8
+QN33,2015,3099,Cambria Heights,Queens,3.073,1008.5
+QN34,1995,5988,Queens Village,Queens,6.46,926.9
+QN34,2005,6107,Queens Village,Queens,6.46,945.4
+QN34,2015,6401,Queens Village,Queens,6.46,990.9
+QN35,1995,3064,Briarwood-Jamaica Hills,Queens,2.717,1127.7
+QN35,2005,2944,Briarwood-Jamaica Hills,Queens,2.717,1083.5
+QN35,2015,3134,Briarwood-Jamaica Hills,Queens,2.717,1153.5
+QN37,1995,3939,Kew Gardens Hills,Queens,3.519,1119.4
+QN37,2005,4440,Kew Gardens Hills,Queens,3.519,1261.7
+QN37,2015,4902,Kew Gardens Hills,Queens,3.519,1393.0
+QN38,1995,4534,Pomonok-Flushing Heights-Hillcrest,Queens,3.608,1256.7
+QN38,2005,4771,Pomonok-Flushing Heights-Hillcrest,Queens,3.608,1322.3
+QN38,2015,4766,Pomonok-Flushing Heights-Hillcrest,Queens,3.608,1321.0
+QN41,1995,2118,Fresh Meadows-Utopia,Queens,2.58,820.9
+QN41,2005,3322,Fresh Meadows-Utopia,Queens,2.58,1287.6
+QN41,2015,2572,Fresh Meadows-Utopia,Queens,2.58,996.9
+QN42,1995,4463,Oakland Gardens,Queens,4.739,941.8
+QN42,2005,5196,Oakland Gardens,Queens,4.739,1096.4
+QN42,2015,5569,Oakland Gardens,Queens,4.739,1175.1
+QN43,1995,5720,Bellerose,Queens,5.128,1115.4
+QN43,2005,6669,Bellerose,Queens,5.128,1300.5
+QN43,2015,6080,Bellerose,Queens,5.128,1185.6
+QN44,1995,6127,Glen Oaks-Floral Park-New Hyde Park,Queens,4.242,1444.4
+QN44,2005,7003,Glen Oaks-Floral Park-New Hyde Park,Queens,4.242,1650.9
+QN44,2015,6434,Glen Oaks-Floral Park-New Hyde Park,Queens,4.242,1516.7
+QN45,1995,4659,Douglas Manor-Douglaston-Little Neck,Queens,6.307,738.7
+QN45,2005,6930,Douglas Manor-Douglaston-Little Neck,Queens,6.307,1098.8
+QN45,2015,6966,Douglas Manor-Douglaston-Little Neck,Queens,6.307,1104.5
+QN46,1995,7480,Bayside-Bayside Hills,Queens,7.501,997.2
+QN46,2005,10793,Bayside-Bayside Hills,Queens,7.501,1438.9
+QN46,2015,9461,Bayside-Bayside Hills,Queens,7.501,1261.3
+QN47,1995,2544,Ft. Totten-Bay Terrace-Clearview,Queens,4.304,591.1
+QN47,2005,3444,Ft. Totten-Bay Terrace-Clearview,Queens,4.304,800.2
+QN47,2015,2788,Ft. Totten-Bay Terrace-Clearview,Queens,4.304,647.8
+QN48,1995,4797,Auburndale,Queens,3.174,1511.3
+QN48,2005,5218,Auburndale,Queens,3.174,1644.0
+QN48,2015,5046,Auburndale,Queens,3.174,1589.8
+QN49,1995,6594,Whitestone,Queens,6.415,1027.9
+QN49,2005,8342,Whitestone,Queens,6.415,1300.4
+QN49,2015,7256,Whitestone,Queens,6.415,1131.1
+QN50,1995,1624,Elmhurst-Maspeth,Queens,2.036,797.6
+QN50,2005,2097,Elmhurst-Maspeth,Queens,2.036,1030.0
+QN50,2015,1877,Elmhurst-Maspeth,Queens,2.036,921.9
+QN51,1995,6157,Murray Hill,Queens,4.876,1262.7
+QN51,2005,6923,Murray Hill,Queens,4.876,1419.8
+QN51,2015,6838,Murray Hill,Queens,4.876,1402.4
+QN52,1995,2931,East Flushing,Queens,2.736,1071.3
+QN52,2005,3572,East Flushing,Queens,2.736,1305.6
+QN52,2015,2966,East Flushing,Queens,2.736,1084.1
+QN53,1995,5136,Woodhaven,Queens,3.441,1492.6
+QN53,2005,4603,Woodhaven,Queens,3.441,1337.7
+QN53,2015,3957,Woodhaven,Queens,3.441,1150.0
+QN54,1995,4928,Richmond Hill,Queens,4.736,1040.5
+QN54,2005,4301,Richmond Hill,Queens,4.736,908.2
+QN54,2015,4713,Richmond Hill,Queens,4.736,995.1
+QN55,1995,7664,South Ozone Park,Queens,7.661,1000.4
+QN55,2005,8009,South Ozone Park,Queens,7.661,1045.4
+QN55,2015,6886,South Ozone Park,Queens,7.661,898.8
+QN56,1995,2862,Ozone Park,Queens,2.324,1231.5
+QN56,2005,3077,Ozone Park,Queens,2.324,1324.0
+QN56,2015,3093,Ozone Park,Queens,2.324,1330.9
+QN57,1995,3869,Lindenwood-Howard Beach,Queens,5.996,645.3
+QN57,2005,4382,Lindenwood-Howard Beach,Queens,5.996,730.8
+QN57,2015,4381,Lindenwood-Howard Beach,Queens,5.996,730.7
+QN60,1995,2340,Kew Gardens,Queens,1.899,1232.2
+QN60,2005,1778,Kew Gardens,Queens,1.899,936.3
+QN60,2015,1935,Kew Gardens,Queens,1.899,1019.0
+QN61,1995,2355,Jamaica,Queens,4.395,535.8
+QN61,2005,2834,Jamaica,Queens,4.395,644.8
+QN61,2015,4043,Jamaica,Queens,4.395,919.9
+QN62,1995,2319,Queensboro Hill,Queens,2.466,940.4
+QN62,2005,2731,Queensboro Hill,Queens,2.466,1107.5
+QN62,2015,2701,Queensboro Hill,Queens,2.466,1095.3
+QN63,1995,2034,Woodside,Queens,2.624,775.2
+QN63,2005,2683,Woodside,Queens,2.624,1022.5
+QN63,2015,2610,Woodside,Queens,2.624,994.7
+QN66,1995,4245,Laurelton,Queens,3.696,1148.5
+QN66,2005,3523,Laurelton,Queens,3.696,953.2
+QN66,2015,4414,Laurelton,Queens,3.696,1194.3
+QN68,1995,1138,Queensbridge-Ravenswood-Long Island City,Queens,2.166,525.4
+QN68,2005,884,Queensbridge-Ravenswood-Long Island City,Queens,2.166,408.1
+QN68,2015,1305,Queensbridge-Ravenswood-Long Island City,Queens,2.166,602.5
+QN70,1995,3115,Astoria,Queens,3.655,852.3
+QN70,2005,3285,Astoria,Queens,3.655,898.8
+QN70,2015,4183,Astoria,Queens,3.655,1144.5
+QN71,1995,901,Old Astoria,Queens,1.451,621.0
+QN71,2005,904,Old Astoria,Queens,1.451,623.0
+QN71,2015,1245,Old Astoria,Queens,1.451,858.0
+QN72,1995,4344,Steinway,Queens,5.363,810.0
+QN72,2005,4495,Steinway,Queens,5.363,838.2
+QN72,2015,4914,Steinway,Queens,5.363,916.3
+QN76,1995,3619,Baisley Park,Queens,4.092,884.4
+QN76,2005,4366,Baisley Park,Queens,4.092,1067.0
+QN76,2015,4545,Baisley Park,Queens,4.092,1110.7
+SI01,1995,10359,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,13.117,789.7
+SI01,2005,13831,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,13.117,1054.4
+SI01,2015,12538,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,13.117,955.9
+SI05,1995,5536,New Springville-Bloomfield-Travis,Staten Island,30.398,182.1
+SI05,2005,6732,New Springville-Bloomfield-Travis,Staten Island,30.398,221.5
+SI05,2015,8094,New Springville-Bloomfield-Travis,Staten Island,30.398,266.3
+SI07,1995,3759,Westerleigh,Staten Island,5.877,639.6
+SI07,2005,5131,Westerleigh,Staten Island,5.877,873.1
+SI07,2015,4844,Westerleigh,Staten Island,5.877,824.2
+SI08,1995,1483,Grymes Hill-Clifton-Fox Hills,Staten Island,3.507,422.9
+SI08,2005,2491,Grymes Hill-Clifton-Fox Hills,Staten Island,3.507,710.3
+SI08,2015,2442,Grymes Hill-Clifton-Fox Hills,Staten Island,3.507,696.3
+SI11,1995,4964,Charleston-Richmond Valley-Tottenville,Staten Island,13.521,367.1
+SI11,2005,7436,Charleston-Richmond Valley-Tottenville,Staten Island,13.521,550.0
+SI11,2015,7910,Charleston-Richmond Valley-Tottenville,Staten Island,13.521,585.0
+SI12,1995,1813,Mariner's Harbor-Arlington-Port Ivory-Graniteville,Staten Island,8.311,218.1
+SI12,2005,2540,Mariner's Harbor-Arlington-Port Ivory-Graniteville,Staten Island,8.311,305.6
+SI12,2015,3582,Mariner's Harbor-Arlington-Port Ivory-Graniteville,Staten Island,8.311,431.0
+SI14,1995,1714,Grasmere-Arrochar-Ft. Wadsworth,Staten Island,3.801,450.9
+SI14,2005,2896,Grasmere-Arrochar-Ft. Wadsworth,Staten Island,3.801,761.9
+SI14,2015,2085,Grasmere-Arrochar-Ft. Wadsworth,Staten Island,3.801,548.5
+SI22,1995,2135,West New Brighton-New Brighton-St. George,Staten Island,5.205,410.2
+SI22,2005,2823,West New Brighton-New Brighton-St. George,Staten Island,5.205,542.4
+SI22,2015,3756,West New Brighton-New Brighton-St. George,Staten Island,5.205,721.6
+SI24,1995,4204,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,Staten Island,17.176,244.8
+SI24,2005,5177,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,Staten Island,17.176,301.4
+SI24,2015,4688,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,Staten Island,17.176,272.9
+SI25,1995,3906,Oakwood-Oakwood Beach,Staten Island,5.197,751.6
+SI25,2005,4078,Oakwood-Oakwood Beach,Staten Island,5.197,784.7
+SI25,2015,5462,Oakwood-Oakwood Beach,Staten Island,5.197,1051.0
+SI28,1995,1819,Port Richmond,Staten Island,3.383,537.7
+SI28,2005,2057,Port Richmond,Staten Island,3.383,608.0
+SI28,2015,2995,Port Richmond,Staten Island,3.383,885.3
+SI32,1995,6219,Rossville-Woodrow,Staten Island,6.035,1030.5
+SI32,2005,8908,Rossville-Woodrow,Staten Island,6.035,1476.1
+SI32,2015,8840,Rossville-Woodrow,Staten Island,6.035,1464.8
+SI35,1995,2858,New Brighton-Silver Lake,Staten Island,4.379,652.7
+SI35,2005,3826,New Brighton-Silver Lake,Staten Island,4.379,873.7
+SI35,2015,3444,New Brighton-Silver Lake,Staten Island,4.379,786.5
+SI36,1995,3479,Old Town-Dongan Hills-South Beach,Staten Island,6.226,558.8
+SI36,2005,4605,Old Town-Dongan Hills-South Beach,Staten Island,6.226,739.6
+SI36,2015,4805,Old Town-Dongan Hills-South Beach,Staten Island,6.226,771.8
+SI37,1995,1802,Stapleton-Rosebank,Staten Island,4.314,417.7
+SI37,2005,2772,Stapleton-Rosebank,Staten Island,4.314,642.6
+SI37,2015,3625,Stapleton-Rosebank,Staten Island,4.314,840.3
+SI45,1995,4143,New Dorp-Midland Beach,Staten Island,5.151,804.3
+SI45,2005,5119,New Dorp-Midland Beach,Staten Island,5.151,993.8
+SI45,2015,5337,New Dorp-Midland Beach,Staten Island,5.151,1036.1
+SI48,1995,5545,Arden Heights,Staten Island,4.684,1183.8
+SI48,2005,7258,Arden Heights,Staten Island,4.684,1549.5
+SI48,2015,6729,Arden Heights,Staten Island,4.684,1436.6
+SI54,1995,6893,Great Kills,Staten Island,8.325,828.0
+SI54,2005,9888,Great Kills,Staten Island,8.325,1187.7
+SI54,2015,10267,Great Kills,Staten Island,8.325,1233.3

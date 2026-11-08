@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "6fa730b83287e1a03ad9",
+  "position": {
+    "x": 40,
+    "y": 1030,
+    "z": 99,
+    "height": 40,
+    "width": 1840,
+    "tabOrder": 99
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Street Tree Census 1995, 2005, 2015 (NYC Parks) and 2010 Census Tracts (NYC City Planning): NYC Open Data. Neighbourhoods keyed in Plotlay (getplotlay.com). Live trees only; each placed by its position. Map context: US Census TIGERweb (public domain).",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "0ce57dda7bf3bf8caece",
+  "position": {
+    "x": 980,
+    "y": 570,
+    "z": 1,
+    "height": 440,
+    "width": 900,
+    "tabOrder": 1
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Neighbourhoods"
+                    }
+                  },
+                  "Property": "name"
+                }
+              },
+              "queryRef": "Neighbourhoods.name",
+              "nativeQueryRef": "name",
+              "displayName": "Neighbourhood"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Neighbourhoods"
+                    }
+                  },
+                  "Property": "borough"
+                }
+              },
+              "queryRef": "Neighbourhoods.borough",
+              "nativeQueryRef": "borough",
+              "displayName": "Borough"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Neighbourhoods"
+                    }
+                  },
+                  "Property": "trees_1995"
+                }
+              },
+              "queryRef": "Neighbourhoods.trees_1995",
+              "nativeQueryRef": "trees_1995",
+              "displayName": "Trees 1995"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Neighbourhoods"
+                    }
+                  },
+                  "Property": "trees_2015"
+                }
+              },
+              "queryRef": "Neighbourhoods.trees_2015",
+              "nativeQueryRef": "trees_2015",
+              "displayName": "Trees 2015"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Neighbourhoods"
+                    }
+                  },
+                  "Property": "change_pct"
+                }
+              },
+              "queryRef": "Neighbourhoods.change_pct",
+              "nativeQueryRef": "change_pct",
+              "displayName": "Change (%)"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Neighbourhoods"
+                  }
+                },
+                "Property": "change"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Neighbourhoods, fewest trees gained first'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI Semibold'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "409.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Neighbourhoods.name"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "169.8D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Neighbourhoods.borough"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "93.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Neighbourhoods.trees_1995"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "93.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Neighbourhoods.trees_2015"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Neighbourhoods.change_pct"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

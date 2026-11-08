@@ -1,0 +1,21 @@
+table Census
+	lineageTag: 9e150a2b-8f77-e55b-bb1c-616c3edc8a64
+
+	column census
+		dataType: int64
+		formatString: 0
+		lineageTag: e3e5c8a6-cad7-5120-2f5e-1d320356b090
+		summarizeBy: none
+		sourceColumn: census
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Census = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromColumns({{1995, 2005, 2015}}, type table [census = Int64.Type])
+				in
+				    Source
+
+	annotation PBI_ResultType = Table

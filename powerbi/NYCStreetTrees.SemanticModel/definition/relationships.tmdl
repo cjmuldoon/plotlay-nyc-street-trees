@@ -1,0 +1,3 @@
+relationship f8c75244-a2b1-1201-40a7-0d78b1f59b6b
+	fromColumn: TreesByCensus.nta
+	toColumn: Neighbourhoods.nta

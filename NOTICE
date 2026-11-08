@@ -1,0 +1,50 @@
+Twenty years of New York City street trees: the 1995, 2005 and 2015 street tree censuses, neighbourhood by neighbourhood.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+This repository contains code, data we made, and data from the sources below.
+
+CODE
+  The notebook and the Power BI project (its Power Query, DAX and report files) are licensed under the MIT licence
+  (LICENSE).
+
+DATA WE MADE
+  The tables in data/tables/ (live street trees by neighbourhood in each census, the change 1995 to 2015, species
+  shares, the citywide counts), the East New York trees in data/trees/, the neighbourhood shapes in data/geometry/ and
+  the visuals are licensed under Creative Commons Attribution 4.0 International (LICENSE-DATA). Please credit: "NYC
+  street trees, 1995 to 2015: Plotlay (getplotlay.com), from NYC Open Data". They are made from the sources below.
+
+UPSTREAM SOURCES
+
+  NYC Open Data, opendata.cityofnewyork.us. The New York City Charter and Administrative Code (Chapter 5 of Title 23,
+  the Open Data Law) say:
+    "Such public data sets shall be made available without any registration requirement, license requirement or
+    restrictions on their use provided that the department may require a third party providing to the public any
+    public data set, or application utilizing such data set, to explicitly identify the source and version of the
+    public data set, and a description of any modifications made to such public data set." (Admin Code 23-502 (d))
+    "Public data sets made available on the web portal are provided for informational purposes. The city does not
+    warranty the completeness, accuracy, content or fitness for any particular purpose or use of any public data set
+    made available on the web portal, nor are any such warranties to be implied or inferred with respect to the public
+    data sets furnished therein." (Admin Code 23-504 (a))
+  Sources, versions and the changes made:
+    - 1995 Street Tree Census, Department of Parks and Recreation, dataset kyad-zm4j (last updated 4 October 2017).
+      https://data.cityofnewyork.us/d/kyad-zm4j
+    - 2005 Street Tree Census, Department of Parks and Recreation, dataset 29bw-z7pj (last updated 10 October 2017).
+      https://data.cityofnewyork.us/d/29bw-z7pj
+    - 2015 Street Tree Census - Tree Data, Department of Parks and Recreation, dataset uvpi-gqnh (last updated
+      4 October 2017).
+      https://data.cityofnewyork.us/d/uvpi-gqnh
+      Changes to all three: dead trees, stumps, shafts and planting spaces left out; each tree placed by its own
+      latitude and longitude into a 2010 Neighborhood Tabulation Area (or, where the census could not place it, the
+      area the census itself named); species names written one way for all three censuses.
+    - 2010 Census Tracts, Department of City Planning, dataset bmjq-373p.
+      https://data.cityofnewyork.us/d/bmjq-373p
+      Changes: the tracts dissolved into their 2010 Neighborhood Tabulation Areas (the NTA code each tract carries);
+      park, cemetery and airport areas left out of the map; outlines simplified by about 1.5 m.
+    Nothing here implies endorsement by the City of New York or any of its agencies.
+
+  Base map in the Plotlay project and the app screenshots
+    USGS The National Map: US Topo (public domain).
+
+POWER BI MAP CONTEXT
+  The Shape Map in powerbi/ draws the counties round the city with the water cut out: US Census Bureau, TIGERweb
+  counties and areal hydrography (public domain).
