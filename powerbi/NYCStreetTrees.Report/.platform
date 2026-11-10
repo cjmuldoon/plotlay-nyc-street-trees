@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "NYCStreetTrees"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "53983549-02d3-47a0-85f8-1491180501c3"
+  }
+}
