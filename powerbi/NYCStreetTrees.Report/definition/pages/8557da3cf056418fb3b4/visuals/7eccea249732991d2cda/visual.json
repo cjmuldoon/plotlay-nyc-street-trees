@@ -3,9 +3,9 @@
   "name": "7eccea249732991d2cda",
   "position": {
     "x": 40,
-    "y": 110,
+    "y": 133,
     "z": 1,
-    "height": 900,
+    "height": 877,
     "width": 900,
     "tabOrder": 1
   },
@@ -190,7 +190,7 @@
                 "name": {
                   "expr": {
                     "Literal": {
-                      "Value": "'neighbourhoods_900x900.topojson'"
+                      "Value": "'neighbourhoods_900x882.topojson'"
                     }
                   }
                 },
@@ -199,7 +199,7 @@
                     "ResourcePackageItem": {
                       "PackageName": "RegisteredResources",
                       "PackageType": 1,
-                      "ItemName": "neighbourhoods_900x900.topojson"
+                      "ItemName": "neighbourhoods_900x882.topojson"
                     }
                   }
                 }
